@@ -1,7 +1,7 @@
 # 😆SimpleSalaryManageSystem😆
 >  📙Based on Tkinter&amp;MySQL.
 
-![image-20230531152807268](C:\Users\fish\AppData\Roaming\Typora\typora-user-images\image-20230531152807268.png)
+![image-20230531152807268](./images/image-20230531152807268.png)
 
 
 
@@ -35,10 +35,10 @@
 
 > 查询
 
-![image-20230531153849882](C:\Users\fish\AppData\Roaming\Typora\typora-user-images\image-20230531153849882.png)
+![image-20230531153849882](./images/image-20230531153849882.png)
 
 
 
 > 添加
 
-![image-20230531153924142](C:\Users\fish\AppData\Roaming\Typora\typora-user-images\image-20230531153924142.png)
+<img src="./images//image-20230531153924142.png" alt="image-20230531153924142" style="zoom:50%;" />
